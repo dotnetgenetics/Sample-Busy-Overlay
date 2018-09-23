@@ -1,0 +1,4 @@
+WPF: Simple “Busy” Overlay
+https://weblogs.asp.net/psteele/wpf-simple-busy-overlay
+Bitbucket Repository
+https://bitbucket.org/psteele/samplebusyoverlay
